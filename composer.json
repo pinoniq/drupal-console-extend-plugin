@@ -1,11 +1,11 @@
 {
-    "name": "drupal/console-extend-plugin",
+    "name": "pinoniq/drupal-console-extend-plugin",
     "description": "Drupal Console Extend Plugin",
     "license": "GPL-2.0+",
     "authors": [
         {
-            "name": "Jesus Manuel Olivas",
-            "email": "jesus.olivas@gmail.com"
+            "name": "Drupal Console Contributors",
+            "homepage": "https://github.com/pinoniq/drupal-console-extend-plugin/graphs/contributors"
         }
     ],
     "type": "composer-plugin",

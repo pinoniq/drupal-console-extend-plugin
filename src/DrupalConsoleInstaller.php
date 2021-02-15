@@ -14,6 +14,6 @@ class DrupalConsoleInstaller extends BaseInstaller
    * @var array
    */
   protected $locations = array(
-    'console-library' => 'vendor/drupal/{$name}/',
+    'console-library' => 'vendor/pinoniq/{$name}/',
   );
 }

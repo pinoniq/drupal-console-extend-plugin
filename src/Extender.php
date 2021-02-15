@@ -78,7 +78,7 @@ class Extender implements PluginInterface, EventSubscriberInterface
             }
         }
 
-        if ($consolePackage = $localRepository->findPackage('drupal/console', '*')) {
+        if ($consolePackage = $localRepository->findPackage('pinoniq/drupal-console', '*')) {
             if ($localRepository->hasPackage($consolePackage)) {
                 $directory = $installationManager->getInstallPath($consolePackage);
             }
